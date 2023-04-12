@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Riobbie/reactsrijeda.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Riobbie/reactsrijeda.git/static/js/main.c19bbc1c.js",
+    "static/js/787.d3befce1.chunk.js": "/Riobbie/reactsrijeda.git/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Riobbie/reactsrijeda.git/index.html",
+    "main.e6c13ad2.css.map": "/Riobbie/reactsrijeda.git/static/css/main.e6c13ad2.css.map",
+    "main.c19bbc1c.js.map": "/Riobbie/reactsrijeda.git/static/js/main.c19bbc1c.js.map",
+    "787.d3befce1.chunk.js.map": "/Riobbie/reactsrijeda.git/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c19bbc1c.js"
+  ]
+}
